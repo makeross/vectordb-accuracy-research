@@ -1,0 +1,12 @@
+Векторные БД:
+qdrant
+chroma
+weaviate
+milvus
+faiss
+
+Модель
+
+https://github.com/avidale/encodechka
+
+sentence-transformers/paraphrase-multilingual-mpnet-base-v2

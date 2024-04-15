@@ -1,0 +1,16 @@
+,founded,model_name,distance
+0,31,intfloat/multilingual-e5-large,l2
+0,30,intfloat/multilingual-e5-large,ip
+0,31,intfloat/multilingual-e5-large,cosine
+0,27,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,l2
+0,5,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,ip
+0,25,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,cosine
+0,31,symanto/sn-xlm-roberta-base-snli-mnli-anli-xnli,l2
+0,30,symanto/sn-xlm-roberta-base-snli-mnli-anli-xnli,ip
+0,35,symanto/sn-xlm-roberta-base-snli-mnli-anli-xnli,cosine
+0,30,cointegrated/LaBSE-en-ru,l2
+0,30,cointegrated/LaBSE-en-ru,ip
+0,30,cointegrated/LaBSE-en-ru,cosine
+0,30,sentence-transformers/LaBSE,l2
+0,30,sentence-transformers/LaBSE,ip
+0,30,sentence-transformers/LaBSE,cosine
