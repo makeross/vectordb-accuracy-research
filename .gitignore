@@ -1,2 +1,4 @@
 lenta-ru-news.csv
 lenta-ru-news.csv.bz2
+*qdrant_storage/*
+!*qdrant_storage/.gitkeep
