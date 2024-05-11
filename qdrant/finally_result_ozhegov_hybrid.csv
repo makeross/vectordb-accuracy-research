@@ -1,0 +1,6 @@
+,founded,model_name
+0,100,intfloat/multilingual-e5-large
+0,100,sentence-transformers/paraphrase-multilingual-mpnet-base-v2
+0,0,symanto/sn-xlm-roberta-base-snli-mnli-anli-xnli
+0,0,cointegrated/LaBSE-en-ru
+0,0,sentence-transformers/LaBSE
