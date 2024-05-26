@@ -1,0 +1,5 @@
+,found,model_name,distance
+0,22,intfloat/multilingual-e5-large,cosine
+0,23,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,cosine
+0,21,sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2,cosine
+0,18,sentence-transformers/all-MiniLM-L6-v2,cosine

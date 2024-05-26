@@ -1,4 +1,4 @@
-,founded,model_name,distance
+,found,model_name,distance
 0,31,intfloat/multilingual-e5-large,l2
 0,30,intfloat/multilingual-e5-large,ip
 0,31,intfloat/multilingual-e5-large,cosine
